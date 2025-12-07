@@ -60,6 +60,8 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 **1. 3D Reconstruction from Sparse-view Pose-Free Images**
 - **Course**: Artificial Intelligence
 - **Description**: Reconstructed 3D scenes from sparse images without camera pose information using deep learning models.
+- **Links**: [🔗 GitHub / Demo](YOUR_LINK_HERE)
+<img src="./assets/3d_recon_sparse.png" width="500">
 
 **2. 3D Mesh & Point Cloud Viewer**
 - **Course**: Visual Computing
