@@ -30,7 +30,15 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **AI/Vision**: PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab
 - **Robot/AR/VR**: Arduino, Unity, SLAM, HTC VIVE, Meta Quest
 
+## 🛠 Tech Stack
 
+| Category | Skills |
+| :--- | :--- |
+| **Core** | Python, C++, C# |
+| **AI / Vision** | PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab |
+| **Robot / AR** | Arduino, Unity, SLAM, HTC VIVE, Meta Quest |
+
+<br>
 
 
 ## 🚀 Projects
@@ -40,12 +48,12 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 ### Korea Institute of Science and Technology (KIST)
 **Graduate Student Researcher | AI & Robotics Institute**
 - **Period**: Mar 2024 – Present
-- **Focus**: **Monocular RGB Dynamic SLAM**: Research on deep learning-based SLAM systems in dynamic environments.
+- **Monocular RGB Dynamic SLAM**: Research on deep learning-based SLAM systems in dynamic environments.
 
 ### Korea Institute of Science and Technology (KIST)
 **Undergraduate Research Intern | AI & Robotics Institute**
 - **Period**: Jun 2023 – Dec 2023
-- **Focus**: **3D Human Head Modeling**: Contributed to high-fidelity 3D avatar generation technology.
+- **3D Human Head Modeling**: Contributed to high-fidelity 3D avatar generation technology.
 
 ## 📜 Projects & Publications
 
