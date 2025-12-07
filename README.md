@@ -8,7 +8,9 @@ My research focuses on building robust SLAM systems for dynamic environments and
 ## 📺 Project Demo : Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
 
-<span style="color: red;"><strong>👉 Click the image to watch the demo video</strong></span>
+
+> 🚨 **Click the image above to watch the demo video!**
+
 
 **1. Problem: Limitations of Object-level Masking**
 In online SLAM systems, ensuring **Tracking Stability** is critical to maintain continuous camera localization. 
