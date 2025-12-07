@@ -50,7 +50,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 **Undergraduate Research Intern | AI & Robotics Institute**
 > *Jun 2023 – Dec 2023*
 - **Focus**: **3D Human Head Modeling**
-- Preprocess data for large-scale 3D multi-view facial datasets to ensure model training quality.
+- Data preprocessing for large-scale 3D multi-view facial datasets to ensure model training quality.
 <img src="./assets/image (11).png" width="500">
 
 
