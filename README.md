@@ -7,7 +7,8 @@ My research focuses on building robust SLAM systems for dynamic environments and
 
 ## 📺 Project Demo : Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
-(Click the image to watch the demo video)
+
+<span style="color: red;"><strong>👉 Click the image to watch the demo video</strong></span>
 
 **1. Problem: Limitations of Object-level Masking**
 In online SLAM systems, ensuring **Tracking Stability** is critical to maintain continuous camera localization. 
@@ -18,7 +19,7 @@ To address this, I proposed **Pixel-wise Motion Masking**, a method that goes be
 - **Methodology**: By integrating **Dense Geometric Prior (DUSt3R)** with **Dense Point Tracking (All-Tracker)**, the system precisely identifies dynamic pixels based on the discrepancy between scene flow and point tracking.
 - **Tracking Stability**: This approach actively utilizes **Temporarily Static Parts** within dynamic objects as valid matching features. This maximizes the number of effective tracking points, ensuring stability even in highly dynamic environments.
 
-**3. Performance**
+**3. Performance**:
 Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are limited to **0.5–2 FPS**, this system achieves **real-time performance of over 15 FPS**.
 
 
