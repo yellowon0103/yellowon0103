@@ -34,7 +34,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 | **AI / Vision** | PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab |
 | **Robot / AR / VR** | Arduino, Unity, SLAM, HTC VIVE, Meta Quest |
 
----
+
 
 ## 💼 Experience
 
@@ -51,39 +51,52 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Focus**: **3D Human Head Modeling**
 - Preprocess data for large-scale 3D multi-view facial datasets to ensure model training quality.
 
----
 
-## 📜 Projects & Publications
+
+## 📜 Projects & Research
 
 ### [2024] Master's Coursework Projects
 
 **1. 3D Reconstruction from Sparse-view Pose-Free Images**
 - **Course**: Special Topics in Artificial Intelligence
-- **Description**: Generated point clouds and rendered novel views from just two images using Dust3r. Implemented reference-based inpainting (LeftRefill) for occluded areas.
+- **Description**: Reconstructed 3D scenes from sparse images without camera pose information using deep learning models.
 
 **2. 3D Mesh & Point Cloud Viewer**
 - **Course**: Visual Computing
 - **Tech**: C++, OpenGL
-- **Description**: Developed an interactive viewer to visualize depth maps from Dust3r/Geowizard as point clouds and mesh.
+- **Description**: Developed a viewer to visualize 3D Meshes and Point Clouds.
 
-**3. Hand Gesture Implementation for Virtual Objects**
+**3. Adaptive Hand Gesture Implementation**
 - **Course**: Basics of VR/AR
 - **Tech**: Unity
-- **Description**: Implemented a system where hand gestures adapt dynamically based on the size of virtual objects.
+- **Description**: Implemented a system where hand gestures change adaptively based on the size of virtual objects.
 
-<br>
+### [2023] Undergraduate Projects
 
-### [2023] Awards & Research
+**1. Haptic Interface for AR/VR Realism (Graduation Exhibition)**
+- **Role**: Development of a haptic interface maximizing realism and gesture application.
+- **Description**: Created a wearable device to enhance immersion in AR/VR environments.
 
-**Haptic Interface for AR/VR Realism (Graduation Exhibition)**
-- **Award**: **Honorable Mention**
-- **Role**: Unity VR Environment Development & Communication
-- **Description**: Developed a wearable haptic interface utilizing bending sensors and LRA vibration motors.
+**2. Feeling the Hit: Haptic Impact for Realistic Virtual Punch**
+- **Type**: Research Project (Submitted to VRST 2023)
+- **Description**: Proposed and experimented with a haptic interface that provides realistic impact feedback for virtual punching interactions.
 
-**Feeling the Hit: Haptic Impact for Realistic Virtual Punch**
-- **Submission**: VRST 2023 (Paper)
-- **Role**: Unity VR Development & Haptic Experiment Setup
-- **Description**: Proposed a haptic interface rendering realistic impact sensations by physically contacting a real object.
+**3. Metaverse Marketplace "Danggeun Market Pro"**
+- **Course**: Computer Graphics & Metaverse
+- **Tech**: LiDAR Scanning, Unity
+- **Description**: Built a metaverse platform utilizing LiDAR scans to upload and view real-world items for second-hand trading.
+
+### [2022] Conference Paper
+
+**Wearable Haptic System for Car Navigation**
+- **Publication**: The Korean Society of Mechanical Engineers (KSME) Spring/Autumn Conference
+- **Description**: Proposed a wearable haptic system to provide navigation cues to drivers.
+
+### [2021] Award
+
+**Android RPG Escape Game using Unity**
+- **Award**: **Silver Award** (Hongik Univ. Project Competition)
+- **Description**: Developed an Android-based RPG escape game featuring puzzle elements and storytelling.
 
 ---
 ### 📫 Contact
