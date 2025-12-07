@@ -120,8 +120,8 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 
 **Android RPG Escape Game using Unity 🏆**
 - **Award**: **Silver Award** (Hongik Univ. Project Competition)
-- **Description**: Developed an Android-based RPG escape game featuring puzzle elements and storytelling.
-- **Links**: [🔗Paper](https://github.com/cwj980119/Unity-Escape_T)
+- **Description**: Developed an Android-based RPG escape game.
+- **Links**: [🔗PPT README](https://github.com/cwj980119/Unity-Escape_T)
 <img src="./assets/image (6).png" width="500">
 
 ---
