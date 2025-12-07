@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Yewon Kim
 ### 3D Vision & SLAM Researcher | Master's Student at Korea University
 
-I am passionate about bridging the gap between the physical and digital worlds through **3D Vision** and **Deep Learning**. My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
+I am passionate about bridging the gap between the physical and digital worlds through **3D Vision** and **Deep Learning**. 
+My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
 
 ## 📺 Project Demo
-https://github.com/user-attachments/assets/your-video-file-link-here
+[![영상 설명](https://img.youtube.com/vi/유튜브영상ID/0.jpg)](https://youtu.be/Kaef6XRzZyU)
 
 ## 🛠 Tech Stack
 - **Core**: Python, C++, C#
