@@ -5,7 +5,7 @@ I am passionate about bridging the gap between the physical and digital worlds t
 My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
 
 ## 📺 Project Demo
-[![영상 설명](https://img.youtube.com/vi/유튜브영상ID/0.jpg)](https://youtu.be/Kaef6XRzZyU)
+[![영상 설명](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
 
 ## 🛠 Tech Stack
 - **Core**: Python, C++, C#
