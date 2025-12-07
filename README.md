@@ -58,7 +58,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 ### [2024] Master's Coursework Projects
 
 **1. 3D Reconstruction from Sparse-view Pose-Free Images**
-- **Course**: Special Topics in Artificial Intelligence
+- **Course**: Artificial Intelligence
 - **Description**: Reconstructed 3D scenes from sparse images without camera pose information using deep learning models.
 
 **2. 3D Mesh & Point Cloud Viewer**
@@ -71,30 +71,31 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Tech**: Unity
 - **Description**: Implemented a system where hand gestures change adaptively based on the size of virtual objects.
 
-### [2023] Undergraduate Projects
+### [2023] Award & Paper & Undergraduate Project
 
-**1. Haptic Interface for AR/VR Realism (Graduation Exhibition)**
+**1. Haptic Interface for AR/VR Realism 🏆**
+- **Award**: **Excellence Award** (Hongik Univ. Graduation Exhibition)
 - **Role**: Development of a haptic interface maximizing realism and gesture application.
 - **Description**: Created a wearable device to enhance immersion in AR/VR environments.
 
-**2. Feeling the Hit: Haptic Impact for Realistic Virtual Punch**
+**2. Feeling the Hit: Haptic Impact for Realistic Virtual Punch 📝**
 - **Type**: Research Project (Submitted to VRST 2023)
 - **Description**: Proposed and experimented with a haptic interface that provides realistic impact feedback for virtual punching interactions.
 
-**3. Metaverse Marketplace "Danggeun Market Pro"**
+**3. Metaverse Marketplace "Carrot Market Pro"**
 - **Course**: Computer Graphics & Metaverse
-- **Tech**: LiDAR Scanning, Unity
+- **Tech**: LiDAR, Unity
 - **Description**: Built a metaverse platform utilizing LiDAR scans to upload and view real-world items for second-hand trading.
 
-### [2022] Conference Paper
+### [2022] Conference Paper 
 
-**Wearable Haptic System for Car Navigation**
-- **Publication**: The Korean Society of Mechanical Engineers (KSME) Spring/Autumn Conference
+**Wearable Haptic System for Car Navigation 📝**
+- **Publication**: The Korean Society of Mechanical Engineers (KSME) Autumn Conference
 - **Description**: Proposed a wearable haptic system to provide navigation cues to drivers.
 
 ### [2021] Award
 
-**Android RPG Escape Game using Unity**
+**Android RPG Escape Game using Unity 🏆**
 - **Award**: **Silver Award** (Hongik Univ. Project Competition)
 - **Description**: Developed an Android-based RPG escape game featuring puzzle elements and storytelling.
 
