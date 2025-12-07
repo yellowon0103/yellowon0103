@@ -2,6 +2,7 @@
 ### 3D Vision & SLAM Researcher | Master's Student at Korea University
 
 I am passionate about bridging the gap between the physical and digital worlds through **3D Vision** and **Deep Learning**. 
+
 My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
 
 ## 📺 Project Demo : Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
@@ -18,13 +19,14 @@ To address this, I proposed **Pixel-wise Motion Masking**, a method that goes be
 - **Tracking Stability**: This approach actively utilizes **Temporarily Static Parts** within dynamic objects as valid matching features. This maximizes the number of effective tracking points, ensuring stability even in highly dynamic environments.
 
 **3. Performance**
-Unlike existing State-of-the-Art(WildGS-SLAM, Dec 2025) methods that are limited to 0.5–2 FPS, this system achieves **real-time performance of over 15 FPS**.
+Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are limited to **0.5–2 FPS**, this system achieves **real-time performance of over 15 FPS**.
 
 
 ## 🛠 Tech Stack
 - **Core**: Python, C++, C#
-- **AI/Vision**: PyTorch, OpenCV, OpenGL
-- **Robot/AR/VR**: Arduino, Unity, SLAM
+- **AI/Vision**: PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLAB
+- **Robot/AR/VR**: Arduino, Unity, SLAM, HTC VIVE, Meta Quest
+
 
 ## 🚀 Projects
 
