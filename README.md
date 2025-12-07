@@ -59,7 +59,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 ### [2024] Master's Coursework Projects
 
 **1. 3D Reconstruction from Sparse-view Pose-Free Images**
-- **Course**: Artificial Intelligence
+- **Course**: Artificial Super Intelligence
 - **Description**: Reconstructed 3D scenes from sparse images without camera pose information using deep learning models.
 <img src="./assets/image (10).png" width="500">
 
@@ -81,9 +81,14 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Award**: **Excellence Award** (Hongik Univ. Graduation Exhibition)
 - **Role**: Development of a haptic interface maximizing realism and gesture application.
 - **Description**: Created a wearable device to enhance immersion in AR/VR environments.
-- **Links**: [🔗Demo](https://www.youtube.com/watch?v=-RJZX_VnEtY) <- 6분 23초부터 시연영상입니ㅏㄷㅇ
-<img src="./assets/image (3).png" width="500">
-<img src="./assets/image (9).png" width="500">
+- **Links**: [🔗 Demo](https://www.youtube.com/watch?v=-RJZX_VnEtY&t=383s) *(Demo starts at 6:23)*
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/image (3).png" width="400"></td>
+    <td align="center"><img src="./assets/image (9).png" width="400"></td>
+  </tr>
+</table>
 
 **2. Feeling the Hit: Haptic Impact for Realistic Virtual Punch 📝**
 - **Type**: Research Project (Submitted to VRST 2023)
