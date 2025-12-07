@@ -6,7 +6,7 @@ I am passionate about bridging the gap between the physical and digital worlds t
 My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
 
 
-## 📺 Project Demo : Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
+## 📺 Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
 
 
