@@ -95,8 +95,12 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Description**: Proposed and experimented with a haptic interface that provides realistic impact feedback for virtual punching interactions.
 - **Links**: [🔗Paper](https://drive.google.com/file/d/1xLS96gyyfeGryjI3FT78jPWnHXA1y16Y/view?usp=sharing)
 <img src="./assets/image (2).png" width="500">
-<img src="./assets/image (1).png" width="500">
-<img src="./assets/image (8).png" width="500">
+<table>
+  <tr>
+    <td align="center"><img src="./assets/image (1).png" width="400"></td>
+    <td align="center"><img src="./assets/image (8).png" width="400"></td>
+  </tr>
+</table>
 
 **3. Metaverse Marketplace "Carrot Market Pro"**
 - **Course**: Computer Graphics & Metaverse
