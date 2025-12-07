@@ -33,5 +33,5 @@ My research focuses on building robust SLAM systems for dynamic environments and
 ---
 ### 📫 Contact
 - **Email**: gyw1teens@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/yewon-kim-6a8a20366)
+- **LinkedIn**: [www.linkedin.com/in/yewon-kim-6a8a20366]
 - **Location**: Seoul, South Korea
