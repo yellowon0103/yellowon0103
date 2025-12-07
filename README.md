@@ -4,7 +4,8 @@
 I am passionate about bridging the gap between the physical and digital worlds through **3D Vision** and **Deep Learning**. 
 
 My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
-<br>
+
+
 ## 📺 Project Demo : Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
 
@@ -24,7 +25,7 @@ To address this, I proposed **Pixel-wise Motion Masking**, a method that goes be
 **3. Performance**:
 Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are limited to **0.5–2 FPS**, this system achieves **real-time performance of over 15 FPS**.
 
-<br>
+
 ## 🛠 Tech Stack
 
 | Category | Skills |
