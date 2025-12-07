@@ -27,7 +27,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 
 ## 🛠 Tech Stack
 - **Core**: Python, C++, C#
-- **AI/Vision**: PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLAB
+- **AI/Vision**: PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab
 - **Robot/AR/VR**: Arduino, Unity, SLAM, HTC VIVE, Meta Quest
 
 
