@@ -35,6 +35,17 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 | **Robot / AR / VR** | Arduino, Unity, SLAM, HTC VIVE, Meta Quest |
 
 
+## 🎓 Education
+
+### Korea University
+**M.S. in Computer Science (Major in AI Applications)**
+> *Mar 2024 – Feb 2026 (Expected)*
+- **Advisor**: Prof. Paul Hong-Seok Seo (MIIL Lab)
+
+### Hongik University
+**B.S. in Computer Engineering**
+> *Mar 2020 – Feb 2024*
+- **Advisor**: Prof. Jae-Young Park (HSIR Lab) > *Jun 2022 – Jun 2023*
 
 ## 💼 Experience
 
