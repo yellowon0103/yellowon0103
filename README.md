@@ -34,7 +34,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 | **AI / Vision** | PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab |
 | **Robot / AR / VR** | Arduino, Unity, SLAM, HTC VIVE, Meta Quest |
 
-<br>
+---
 
 ## 💼 Experience
 
@@ -49,7 +49,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 **Undergraduate Research Intern | AI & Robotics Institute**
 > *Jun 2023 – Dec 2023*
 - **Focus**: **3D Human Head Modeling**
-- Contributed to high-fidelity 3D avatar generation technology and technology transfer.
+- Preprocess data for large-scale 3D multi-view facial datasets to ensure model training quality.
 
 ---
 
