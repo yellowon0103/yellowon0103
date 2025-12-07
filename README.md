@@ -45,12 +45,13 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 > *Mar 2024 – Present*
 - **Focus**: **Monocular RGB Dynamic SLAM**
 - Research on deep learning-based SLAM systems in dynamic environments.
+<img src="./assets/anymal2.png" width="500">
 
 **Undergraduate Research Intern | AI & Robotics Institute**
 > *Jun 2023 – Dec 2023*
 - **Focus**: **3D Human Head Modeling**
 - Preprocess data for large-scale 3D multi-view facial datasets to ensure model training quality.
-
+<img src="./assets/image (11).png" width="500">
 
 
 ## 📜 Projects & Research
@@ -60,18 +61,19 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 **1. 3D Reconstruction from Sparse-view Pose-Free Images**
 - **Course**: Artificial Intelligence
 - **Description**: Reconstructed 3D scenes from sparse images without camera pose information using deep learning models.
-- **Links**: [🔗 GitHub / Demo](YOUR_LINK_HERE)
-<img src="./assets/3d_recon_sparse.png" width="500">
+<img src="./assets/image (10).png" width="500">
 
 **2. 3D Mesh & Point Cloud Viewer**
 - **Course**: Visual Computing
 - **Tech**: C++, OpenGL
 - **Description**: Developed a viewer to visualize 3D Meshes and Point Clouds.
+<img src="./assets/image (4).png" width="500">
 
 **3. Adaptive Hand Gesture Implementation**
 - **Course**: Basics of VR/AR
 - **Tech**: Unity
 - **Description**: Implemented a system where hand gestures change adaptively based on the size of virtual objects.
+<img src="./assets/image (5).png" width="500">
 
 ### [2023] Award & Paper & Undergraduate Project
 
@@ -79,27 +81,39 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Award**: **Excellence Award** (Hongik Univ. Graduation Exhibition)
 - **Role**: Development of a haptic interface maximizing realism and gesture application.
 - **Description**: Created a wearable device to enhance immersion in AR/VR environments.
+- **Links**: [🔗Demo](https://www.youtube.com/watch?v=-RJZX_VnEtY) <- 6분 23초부터 시연영상입니ㅏㄷㅇ
+<img src="./assets/image (3).png" width="500">
+<img src="./assets/image (9).png" width="500">
 
 **2. Feeling the Hit: Haptic Impact for Realistic Virtual Punch 📝**
 - **Type**: Research Project (Submitted to VRST 2023)
 - **Description**: Proposed and experimented with a haptic interface that provides realistic impact feedback for virtual punching interactions.
+- **Links**: [🔗Paper](https://drive.google.com/file/d/1xLS96gyyfeGryjI3FT78jPWnHXA1y16Y/view?usp=sharing)
+<img src="./assets/image (2).png" width="500">
+<img src="./assets/image (1).png" width="500">
+<img src="./assets/image (8).png" width="500">
 
 **3. Metaverse Marketplace "Carrot Market Pro"**
 - **Course**: Computer Graphics & Metaverse
 - **Tech**: LiDAR, Unity
 - **Description**: Built a metaverse platform utilizing LiDAR scans to upload and view real-world items for second-hand trading.
+<img src="./assets/image (7).png" width="500">
 
 ### [2022] Conference Paper 
 
 **Wearable Haptic System for Car Navigation 📝**
 - **Publication**: The Korean Society of Mechanical Engineers (KSME) Autumn Conference
 - **Description**: Proposed a wearable haptic system to provide navigation cues to drivers.
+- **Links**: [🔗Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183222)
+<img src="./assets/image.png" width="500">
 
 ### [2021] Award
 
 **Android RPG Escape Game using Unity 🏆**
 - **Award**: **Silver Award** (Hongik Univ. Project Competition)
 - **Description**: Developed an Android-based RPG escape game featuring puzzle elements and storytelling.
+- **Links**: [🔗Paper](https://github.com/cwj980119/Unity-Escape_T)
+<img src="./assets/image (6).png" width="500">
 
 ---
 ### 📫 Contact
