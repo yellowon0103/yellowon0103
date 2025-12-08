@@ -133,7 +133,7 @@ Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are li
 - **Award**: **Silver Award** (Hongik Univ. Project Competition)
 - **Description**: Developed an Android-based RPG escape game.
 - **Links**: [🔗PPT README](https://github.com/cwj980119/Unity-Escape_T)
-<img src="./assets/image (6).png" width="500">
+<img src="./assets/image (6).png">
 
 ---
 ### 📫 Contact
