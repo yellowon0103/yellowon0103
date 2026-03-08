@@ -5,6 +5,14 @@ I am passionate about bridging the gap between the physical and digital worlds t
 
 My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
 
+---
+
+## 📄 Latest Research (IROS 2026 Submitted)
+### **All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking**
+
+[**[Paper (PDF)]**](https://drive.google.com/file/d/1nAlEuM95CJSnktXZ3p32tRAsq1tI-rPl/view?usp=sharing) | [**[Supplementary Video]**](https://youtu.be/1vgPLqjW0Xg)
+> 🚨 **Click the Link above to watch the IROS 2026 Supplementary Video!**
+---
 
 ## 📺 Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
