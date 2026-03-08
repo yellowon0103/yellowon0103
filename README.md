@@ -12,6 +12,10 @@ My research focuses on building robust SLAM systems for dynamic environments and
 
 [**[Paper (PDF)]**](https://drive.google.com/file/d/1nAlEuM95CJSnktXZ3p32tRAsq1tI-rPl/view?usp=sharing) | [**[Supplementary Video]**](https://youtu.be/1vgPLqjW0Xg)
 > 🚨 **Click the Link above to watch the IROS 2026 Supplementary Video!**
+
+<img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
+
+
 ---
 
 ## 📺 Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
