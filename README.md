@@ -14,15 +14,10 @@ My research focuses on building robust SLAM systems for dynamic environments and
 > 🚨 **Click the Link above to watch the IROS 2026 Supplementary Video!**
 
 <img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
+<img src="./assets/Bonn_dynamic_visualize.png">
 
 
-
-[![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
-
-
-> 🚨 **Click the image above to watch the demo video!**
-
-
+[**[Demo Video]**](https://youtu.be/Kaef6XRzZyU)
 
 ### Overview
 
@@ -33,7 +28,7 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 - ✅ No Predefined Labels
 - ✅ No GT Depth
 - ✅ No Segmentation & Detection Models
-- ✅ Real-time (~10 FPS on a single NVIDIA RTX 4090)
+- ✅ ~10 FPS on a single NVIDIA RTX 4090
 
 
 ### Key Contributions
@@ -42,10 +37,11 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
   Detects dynamic regions purely from geometric discrepancy without relying on object-level segmentation or detection networks. This label-free formulation generalizes to unseen objects and preserves static pixels within partially moving objects, significantly reducing over-removal.
 
 - **Robust tracking via progressive dynamic masking**
-  Unlike single-step removal strategies that risk discarding useful correspondences, our method progressively accumulates motion inconsistencies across frames, enabling robust tracking in dynamic scenes.
+  Unlike single-step object removal strategies that risk discarding useful correspondences, our method progressively accumulates motion inconsistencies across frames, enabling robust tracking in dynamic scenes.
 
 - **Real-time RGB-only framework**
-  By adapting All-Tracker to a pairwise two-frame inference setting, our system operates at approximately **10 FPS**, enabling real-time performance on standard 30 FPS video streams — significantly outperforming state-of-the-art dense hybrid methods (**0.5–3 FPS**).
+  Our system operates at approximately **10 FPS**, enabling real-time performance on standard 30 FPS video streams by subsampling every 3 frames — significantly outperforming state-of-the-art dense hybrid methods (**0.5–3 FPS**).
+
 
 
 ## 🛠 Tech Stack
