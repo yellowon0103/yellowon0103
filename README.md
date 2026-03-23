@@ -24,6 +24,48 @@ My research focuses on building robust SLAM systems for dynamic environments and
 
 > 🚨 **Click the image above to watch the demo video!**
 
+---
+
+### Overview
+
+Existing dynamic SLAM approaches still have several limitations like **over-removal** and **high computational costs**.
+
+We propose a real-time RGB Dynamic SLAM framework that precisely removes moving objects at the pixel level **without relying on predefined labels or segmentation models**. Our system combines pixel motion predicted by ego-motion using **DUSt3R** with point tracking from **All-Tracker**, removing only actually moving pixels by analyzing discrepancies between the two motion sources. Unlike object-level masking methods, our approach eliminates only currently moving regions, allowing temporarily static parts to be utilized for tracking.
+
+---
+
+### Key Contributions
+
+- **Dynamic removal without segmentation or detection models**
+  Detects dynamic regions purely from geometric discrepancy without relying on object-level segmentation or detection networks. This label-free formulation generalizes to unseen objects and preserves static pixels within partially moving objects, significantly reducing over-removal.
+
+- **Robust tracking via progressive dynamic masking**
+  Unlike single-step removal strategies that risk discarding useful correspondences, our method progressively accumulates motion inconsistencies across frames, enabling robust tracking in dynamic scenes.
+
+- **Real-time RGB-only framework**
+  By adapting All-Tracker to a pairwise two-frame inference setting, our system operates at approximately **10 FPS**, enabling real-time performance on standard 30 FPS video streams — significantly outperforming state-of-the-art dense hybrid methods (**0.5–3 FPS**).
+
+---
+
+### Performance
+
+| Dataset | Ours (FPS↑) | WildGS Full (FPS↑) | WildGS Fast (FPS↑) | Ours ATE↓ | WildGS ATE↓ |
+|---|---|---|---|---|---|
+| Wild-SLAM | **11.29** | 0.49 | 1.96 | 1.94 cm | **0.46 cm** |
+| Bonn | **10.07** | 0.50 | 2.13 | 2.84 cm | **2.31 cm** |
+
+- ✅ No Predefined Labels
+- ✅ No GT Depth
+- ✅ No Segmentation & Detection Models
+- ✅ Real-time (~10 FPS on a single NVIDIA RTX 4090)
+
+
+
+
+
+
+_________
+
 
 **1. Problem: Limitations of Object-level Masking**
 In online SLAM systems, ensuring **Tracking Stability** is critical to maintain continuous camera localization. 
