@@ -16,15 +16,13 @@ My research focuses on building robust SLAM systems for dynamic environments and
 <img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
 
 
----
 
-## 📺 Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking
 [![Demo Video](./assets/Bonn_dynamic_visualize.png)](https://youtu.be/Kaef6XRzZyU)
 
 
 > 🚨 **Click the image above to watch the demo video!**
 
----
+
 
 ### Overview
 
@@ -32,7 +30,11 @@ Existing dynamic SLAM approaches still have several limitations like **over-remo
 
 We propose a real-time RGB Dynamic SLAM framework that precisely removes moving objects at the pixel level **without relying on predefined labels or segmentation models**. Our system combines pixel motion predicted by ego-motion using **DUSt3R** with point tracking from **All-Tracker**, removing only actually moving pixels by analyzing discrepancies between the two motion sources. Unlike object-level masking methods, our approach eliminates only currently moving regions, allowing temporarily static parts to be utilized for tracking.
 
----
+- ✅ No Predefined Labels
+- ✅ No GT Depth
+- ✅ No Segmentation & Detection Models
+- ✅ Real-time (~10 FPS on a single NVIDIA RTX 4090)
+
 
 ### Key Contributions
 
@@ -44,40 +46,6 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 
 - **Real-time RGB-only framework**
   By adapting All-Tracker to a pairwise two-frame inference setting, our system operates at approximately **10 FPS**, enabling real-time performance on standard 30 FPS video streams — significantly outperforming state-of-the-art dense hybrid methods (**0.5–3 FPS**).
-
----
-
-### Performance
-
-| Dataset | Ours (FPS↑) | WildGS Full (FPS↑) | WildGS Fast (FPS↑) | Ours ATE↓ | WildGS ATE↓ |
-|---|---|---|---|---|---|
-| Wild-SLAM | **11.29** | 0.49 | 1.96 | 1.94 cm | **0.46 cm** |
-| Bonn | **10.07** | 0.50 | 2.13 | 2.84 cm | **2.31 cm** |
-
-- ✅ No Predefined Labels
-- ✅ No GT Depth
-- ✅ No Segmentation & Detection Models
-- ✅ Real-time (~10 FPS on a single NVIDIA RTX 4090)
-
-
-
-
-
-
-_________
-
-
-**1. Problem: Limitations of Object-level Masking**
-In online SLAM systems, ensuring **Tracking Stability** is critical to maintain continuous camera localization. 
-Existing **Object-level masking methods** tend to remove entire dynamic objects, even when parts of them remain static. While this approach may be advantageous for reconstruction, it leads to **Feature Starvation** in crowded scenes where dynamic objects dominate the field of view. This depletion of matching information often results in immediate **Tracking Failure** and frequent **Relocalization**.
-
-**2. Solution: Pixel-wise Motion Masking**
-To address this, I proposed **Pixel-wise Motion Masking**, a method that goes beyond simple object removal by identifying and masking only the pixels that are actually moving at the current moment.
-- **Methodology**: By integrating **Dense Geometric Prior (DUSt3R)** with **Dense Point Tracking (All-Tracker)**, the system precisely identifies dynamic pixels based on the discrepancy between scene flow and point tracking.
-- **Tracking Stability**: This approach actively utilizes **Temporarily Static Parts** within dynamic objects as valid matching features. This maximizes the number of effective tracking points, ensuring stability even in highly dynamic environments.
-
-**3. Performance**:
-Unlike existing State-of-the-Art (**WildGS-SLAM**, Dec 2025) methods that are limited to **0.5–2 FPS**, this system achieves **real-time performance of over 10 FPS**.
 
 
 ## 🛠 Tech Stack
