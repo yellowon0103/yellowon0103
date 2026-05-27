@@ -1,9 +1,14 @@
-# 👋 Hello, I'm Yewon Kim
-### 3D Vision & SLAM Researcher | Master's Student at Korea University
+<img width="1111" height="720" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6954413e-90c6-4ebf-8d6a-456684fbb8b3" /># 👋 Hello, I'm Yewon Kim
+### Physical AI, Robotics Simulation, and 3D Vision Researcher
+KIST AI & Robotics Institute | Seoul, South Korea
 
-I am passionate about bridging the gap between the physical and digital worlds through **3D Vision** and **Deep Learning**. 
+I am a researcher working on robotics simulation, 3D vision, and robot learning systems for real-world robotic applications.
 
-My research focuses on building robust SLAM systems for dynamic environments and real-time applications.
+My recent work focuses on:
+- Dynamic SLAM for robots
+- Physics-based robot simulation using Isaac Sim and MuJoCo
+- Robot manipulation and imitation learning
+- 3D scene understanding and reconstruction
 
 ---
 
@@ -70,8 +75,19 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 ### Korea Institute of Science and Technology (KIST)
 *Seoul, South Korea*
 
+**Research Intern | AI & Robotics Institute**
+> *May 2026 – Present*
+- **Focus**: **Robotics Simulation & Physical AI**
+- Building physics-based robotic simulation environments using Isaac Sim and MuJoCo.
+- Developing articulated/deformable object interaction environments for robot manipulation tasks.
+- Working on robot learning pipelines including imitation learning and simulation-based training.
+- Designing simulation environments for humanoid and robotic arm manipulation research.
+
+<img width="1111" height="720" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6b0f4aef-0fe8-4f40-abe0-9a2fec3fedce" />
+
+
 **Graduate Student Researcher | AI & Robotics Institute**
-> *Mar 2024 – Present*
+> *Mar 2024 – Feb 2026*
 - **Focus**: **Monocular RGB Dynamic SLAM**
 - Research on deep learning-based SLAM systems in dynamic environments.
 <img src="./assets/anymal2.png" width="500">
