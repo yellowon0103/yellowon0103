@@ -1,4 +1,4 @@
-<img width="1111" height="720" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6954413e-90c6-4ebf-8d6a-456684fbb8b3" /># 👋 Hello, I'm Yewon Kim
+👋 Hello, I'm Yewon Kim
 ### Physical AI, Robotics Simulation, and 3D Vision Researcher
 KIST AI & Robotics Institute | Seoul, South Korea
 
@@ -55,7 +55,7 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 | :--- | :--- |
 | **Core** | Python, C++, C# |
 | **AI / Vision** | PyTorch, OpenCV, OpenGL, Open3D, Blender, MeshLab |
-| **Robot / AR / VR** | Arduino, Unity, SLAM, HTC VIVE, Meta Quest |
+| **Robot / AR / VR** | Arduino, Unity, SLAM, Isaac Sim, HTC VIVE, Meta Quest |
 
 
 ## 🎓 Education
@@ -83,7 +83,7 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 - Working on robot learning pipelines including imitation learning and simulation-based training.
 - Designing simulation environments for humanoid and robotic arm manipulation research.
 
-<img width="1111" height="720" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6b0f4aef-0fe8-4f40-abe0-9a2fec3fedce" />
+<img width="700" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6b0f4aef-0fe8-4f40-abe0-9a2fec3fedce" />
 
 
 **Graduate Student Researcher | AI & Robotics Institute**
