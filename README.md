@@ -8,7 +8,7 @@ KIST AI & Robotics Institute | Seoul, South Korea
 I am a researcher working on robotics simulation, 3D vision, and robot learning systems for real-world robotic applications.
 
 My recent work focuses on:
-- Dynamic SLAM for robots
+- Dynamic SLAM
 - Physics-based robot simulation using Isaac Sim and MuJoCo
 - Robot manipulation and imitation learning
 - 3D scene understanding and reconstruction
