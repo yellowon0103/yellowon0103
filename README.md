@@ -66,7 +66,7 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 ### Korea University
 **M.S. in Computer Science (Major in AI Applications)**
 > *Mar 2024 – Feb 2026*
-- **Advisor**: Prof. Paul Hong-Seok Seo (MIIL Lab)
+- **Advisor**: Prof. Paul Hong-Seok Seo (MIIL Lab), Prof. Sang Chul Ahn (KIST)
 
 ### Hongik University
 **B.S. in Computer Engineering**
