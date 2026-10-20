@@ -9,9 +9,9 @@ I am a researcher working on robotics simulation, 3D vision, and robot learning 
 
 My recent work focuses on:
 - Dynamic SLAM
-- Physics-based robot simulation using Isaac Sim and MuJoCo
-- Robot manipulation and imitation learning
-- 3D scene understanding and reconstruction
+- Physics-based robot simulation using Isaac Sim
+- Agentic System for Sim-Ready Digital Twin Asset and Scene Reconstruction (Isaac Sim)
+- Automated Robot Action and Trajectory Generation for Simulation Tasks
 
 ---
 
@@ -79,10 +79,9 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 **Research Intern | AI & Robotics Institute**
 > *May 2026 – Present*
 - **Focus**: **Robotics Simulation & Physical AI**
-- Building physics-based robotic simulation environments using Isaac Sim and MuJoCo.
+- Building physics-based robotic simulation environments using Isaac Sim.
 - Developing articulated/deformable object interaction environments for robot manipulation tasks.
-- Working on robot learning pipelines including imitation learning and simulation-based training.
-- Designing simulation environments for humanoid and robotic arm manipulation research.
+- Automating robot motion generation by integrating cuRobo into the simulation pipeline.
 
 
 
