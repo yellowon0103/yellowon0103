@@ -21,6 +21,11 @@ My recent work focuses on:
 [**[Paper (arXiv)]**](https://arxiv.org/abs/2610.16143) | [**[Project Page]**](https://yellowon0103.github.io/all-st3r-slam/)
 > 🚨 **Check the Project Page to watch the IROS 2026 Supplementary Video!**
 
+### Poster
+
+<img width="5733" height="4056" alt="poster" src="https://github.com/user-attachments/assets/e61b50bd-5241-48d1-b330-a8af9d9d1694" />
+
+
 <img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
 <img src="./assets/Bonn_dynamic_visualize.png">
 
