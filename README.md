@@ -25,10 +25,6 @@ My recent work focuses on:
 
 <img width="5733" height="4056" alt="poster" src="https://github.com/user-attachments/assets/e61b50bd-5241-48d1-b330-a8af9d9d1694" />
 
-
-<img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
-<img src="./assets/Bonn_dynamic_visualize.png">
-
 ### Overview
 
 Existing dynamic SLAM approaches still have several limitations like **over-removal** and **high computational costs**.
