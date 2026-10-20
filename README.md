@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c1e7e05a-fceb-4d60-a2aa-3ca3b6fd117e
 👋 Hello, I'm Yewon Kim
 
 ---
