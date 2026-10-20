@@ -50,7 +50,7 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 - **Real-time RGB-only framework**
   Our system operates at approximately **10 FPS**, enabling real-time performance on standard 30 FPS video streams by subsampling every 3 frames — significantly outperforming state-of-the-art dense hybrid methods (**0.5–3 FPS**).
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -89,24 +89,25 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 
 https://github.com/user-attachments/assets/5c295bbc-24c1-4929-898d-c1d12e9b2635
 
+---
 
 ### Robot Manipulation Demo
 
+### Robot Manipulation Demo
 
+#### Head Camera RGB
 https://github.com/user-attachments/assets/f595f4b2-7fd0-421c-854b-fdfdeb2812d7
 
-
+#### Head Camera Depth
 https://github.com/user-attachments/assets/a88e9ba7-697b-42f1-a976-78ccf81ccc6a
 
-
-
+#### Left Hand Camera RGB
 https://github.com/user-attachments/assets/f11937f7-ec05-4e64-9083-5c0803c75b4c
 
-
-
-
+#### Right Hand Camera RGB
 https://github.com/user-attachments/assets/80570db0-f2d0-492d-aab1-964ce22fb82e
 
+The cucumber asset was created manually, and the pick-and-place motion for grasping the cucumber and placing it in the sink was automatically generated using cuRobo without manual teleoperation.
 
 
 The cucumber asset was created manually, and the pick-and-place motion for grasping the cucumber and placing it in the sink was automatically generated using cuRobo without manual teleoperation.
@@ -114,7 +115,7 @@ The cucumber asset was created manually, and the pick-and-place motion for grasp
 
 
 
-
+---
 
 
 **Graduate Student Researcher | AI & Robotics Institute**
