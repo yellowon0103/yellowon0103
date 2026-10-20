@@ -86,11 +86,16 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 
 
 
-https://github.com/user-attachments/assets/2f7598c5-47f7-4d00-b8f5-f910805681f6
+
+https://github.com/user-attachments/assets/5c295bbc-24c1-4929-898d-c1d12e9b2635
 
 
 
-<img width="700" alt="isaac_sim_env" src="https://github.com/user-attachments/assets/6b0f4aef-0fe8-4f40-abe0-9a2fec3fedce" />
+
+
+
+
+
 
 
 **Graduate Student Researcher | AI & Robotics Institute**
