@@ -18,14 +18,11 @@ My recent work focuses on:
 ## 📄 Latest Research (IROS 2026)
 ### **All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking**
 
-[**[Paper (arXiv)]**](https://arxiv.org/abs/2610.16143) | [**[Supplementary Video]**](https://youtu.be/1vgPLqjW0Xg)
-> 🚨 **Click the Link above to watch the IROS 2026 Supplementary Video!**
+[**[Paper (arXiv)]**](https://arxiv.org/abs/2610.16143) | [**[Project Page]**](https://yellowon0103.github.io/all-st3r-slam/)
+> 🚨 **Check the Project Page to watch the IROS 2026 Supplementary Video!**
 
 <img width="1337" height="1079" alt="anymal2" src="https://github.com/user-attachments/assets/ecf4600c-79bc-42f2-a2b2-3b5ac8ee3936" />
 <img src="./assets/Bonn_dynamic_visualize.png">
-
-
-[**[Demo Video]**](https://youtu.be/Kaef6XRzZyU)
 
 ### Overview
 
