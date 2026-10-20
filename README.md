@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c1e7e05a-fceb-4d60-a2aa-3ca3b6fd117e
 👋 Hello, I'm Yewon Kim
 
 ---
@@ -85,32 +87,27 @@ We propose a real-time RGB Dynamic SLAM framework that precisely removes moving 
 
 
 
-
-
 https://github.com/user-attachments/assets/5c295bbc-24c1-4929-898d-c1d12e9b2635
 
 
 ### Robot Manipulation Demo
 
-<p align="center">
-  <video src="head_color.mp4" width="49%" controls></video>
-  <video src="head_depth.mp4" width="49%" controls></video>
-</p>
 
-<p align="center">
-  <b>Head Camera RGB</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Head Camera Depth</b>
-</p>
+https://github.com/user-attachments/assets/f595f4b2-7fd0-421c-854b-fdfdeb2812d7
 
-<p align="center">
-  <video src="hand_left_color.mp4" width="49%" controls></video>
-  <video src="hand_right_color.mp4" width="49%" controls></video>
-</p>
 
-<p align="center">
-  <b>Left Hand Camera RGB</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Right Hand Camera RGB</b>
-</p>
+https://github.com/user-attachments/assets/a88e9ba7-697b-42f1-a976-78ccf81ccc6a
+
+
+
+https://github.com/user-attachments/assets/f11937f7-ec05-4e64-9083-5c0803c75b4c
+
+
+
+
+https://github.com/user-attachments/assets/80570db0-f2d0-492d-aab1-964ce22fb82e
+
+
 
 The cucumber asset was created manually, and the pick-and-place motion for grasping the cucumber and placing it in the sink was automatically generated using cuRobo without manual teleoperation.
 
