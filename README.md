@@ -90,7 +90,6 @@ https://github.com/user-attachments/assets/5c295bbc-24c1-4929-898d-c1d12e9b2635
 
 ---
 
-### Robot Manipulation Demo
 
 ### Robot Manipulation Demo
 
